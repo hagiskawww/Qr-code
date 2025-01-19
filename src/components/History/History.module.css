@@ -1,0 +1,8 @@
+.history {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+
+    padding-top: 96px;
+}
